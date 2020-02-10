@@ -8,6 +8,7 @@ Output files go in _dist/_
 
 Run the below commands to get started
 ```shell
+npm install
 npm run build
 npm start
 ```
