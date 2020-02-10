@@ -1,8 +1,8 @@
 # typescript-node
 
-Entry point is in src/index.ts
+Entry point is in _src/index.ts_
 
-Output files are in dist/
+Output files go in _dist/_
 
 Run the below commands to get started
 ```shell
