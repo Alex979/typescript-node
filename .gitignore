@@ -1,0 +1,8 @@
+# Ignore dependencies
+node_modules
+
+# Ignore output files
+dist/**/*
+
+# Ignore OS file/folder metadata
+.DS_Store
